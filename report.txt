@@ -1,0 +1,9 @@
+Web Server Logs Report
+==================
+Total number of requests: 6
+Number of unique IP addresses: 4
+Number of requests by method: 
+1 POST
+5 GET
+Most popular URL: 
+/index.html with 3 requests
